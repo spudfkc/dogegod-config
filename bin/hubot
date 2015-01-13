@@ -1,0 +1,14 @@
+#!/bin/sh
+
+set -e
+
+
+export HUBOT_IRC_SERVER="irc.nickcaley.com"
+export HUBOT_IRC_ROOMS="#fight-club"
+export HUBOT_IRC_NICK="dogegod"
+export HUBOT_IRC_UNFLOOD="1000"
+
+npm install
+export PATH="node_modules/.bin:node_modules/hubot/node_modules/.bin:$PATH"
+
+exec node_modules/.bin/hubot "$@"
