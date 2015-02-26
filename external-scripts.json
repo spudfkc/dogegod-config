@@ -1,5 +1,8 @@
 [
 "hubot-diagnostics",
+"hubot-devops-reactions",
+"hubot-humanity",
+"hubot-dogeme",
 "hubot-help",
 "hubot-heroku-keepalive",
 "hubot-google-images",
