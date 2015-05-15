@@ -17,11 +17,25 @@
     "hubot-irc": "^0.2.7",
     "hubot-maps": "0.0.1",
     "hubot-pugme": "^0.1.0",
-    "hubot-redis-brain": "0.0.2",
+    "hubot-redis-brain": "*",
     "hubot-rules": "^0.1.0",
     "hubot-scripts": "^2.5.16",
     "hubot-shipit": "^0.1.1",
-    "hubot-youtube": "^0.1.2"
+    "hubot-youtube": "^0.1.2",
+    "hubot-business-cat": "*",
+    "hubot-sentimental": "*",
+    "underscore": "*",
+    "textspark": "*",
+    "cheerio": "*",
+    "jsdom": "*",
+    "nodepie": "*",
+    "scraper": "*",
+    "xml2js": "*",
+    "htmlparser": "*",
+    "coffee-script": "~1.9.0",
+    "redis": ">= 0.10.0",
+    "Sentimental": "0.0.4",
+    "soupselect": "*"
   },
   "engines": {
     "node": "0.10.x"
