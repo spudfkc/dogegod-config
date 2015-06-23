@@ -13,5 +13,6 @@
 "hubot-redis-brain",
 "hubot-rules",
 "hubot-shipit",
+"hubot-youtube-info",
 "hubot-youtube"
 ]
